@@ -153,7 +153,7 @@ public class MainActivity extends AppCompatActivity implements LoadDataAndDestro
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
             case R.id.favourites : startActivity(new Intent(this, FavoriteMovieActivity.class)); break;
-            case R.id.spare :  break;
+//            case R.id.spare :  break;
         }
         return super.onOptionsItemSelected(item);
     }
