@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Фильмы</string>
+    <string name="adult">Эротика</string>
+    <string name="film_poster">Постер фильма</string>
+    <string name="title">Заголовок</string>
+    <string name="original_title">Оригинальное название</string>
+    <string name="rating">Рейтинг</string>
+    <string name="release_date">Дата релиза</string>
+    <string name="description">Описание</string>
+    <string name="trailer_title">Трейлеры</string>
+    <string name="review_title">Отызвы</string>
+    <string name="favourit">Избранное</string>
+    <string name="min_vote_count_500"> Известные</string>
+
+
+    <array name="spinner_entries">
+        <item>Популярные</item>
+        <item>Лучшие</item>
+        <item>Ожидаемые</item>
+    </array>
+
+</resources>

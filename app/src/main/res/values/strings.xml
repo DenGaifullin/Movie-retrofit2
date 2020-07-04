@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="adult">Adult</string>
+    <string name="min_vote_count_500">min vote count 500</string>
+    <string name="film_poster">film poster</string>
+    <string name="title">title</string>
+    <string name="original_title">original title</string>
+    <string name="rating">rating</string>
+    <string name="release_date">release date</string>
+    <string name="description">description</string>
+    <string name="trailer_title">Trailers</string>
+    <string name="review_title">Reviews</string>
+    <string name="favourit">Favorite movies</string>
+
+    <array name="spinner_entries">
+        <item>Popular</item>
+        <item>Top rated</item>
+        <item>Upcoming</item>
+    </array>
+</resources>
